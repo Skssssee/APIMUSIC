@@ -4,7 +4,7 @@ asyncio
 beautifulsoup4
 dnspython
 ffmpeg-python
-gitpython
+
 hachoir
 heroku3
 httpx==0.27.0
